@@ -1,1 +1,2 @@
 # CSS-385-A-Program-1
+Created a demo program using the Unity Essentials Pathway tutorials: https://learn.unity.com/pathway/unity-essentials. Main differences are changed text and font on the main menu, new color for the car on the programming demo, different scale for the collectible cheese objects, changed speed and turning speed for the car from the tutorial, and different ball color from the tutorials.
